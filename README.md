@@ -1,5 +1,5 @@
 ## jQuery pagination plugin (bootstrap powered) ##
-## jQury分页插件（支持bootstrap）## 
+## jQury分页插件（支持bootstrap）
 ### Basic usage ###
 ### 基本使用方法 ###
 Plugin requires jQuery (required - 1.7.0 or higher).
